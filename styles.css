@@ -1,3 +1,59 @@
 boby {
      background: coral;
 }
+
+ #titulo1 {
+     text-align: center;
+     font-size: 50px;
+     color: rgb(204, 204, 204)e1e;
+ }
+ 
+ .p1 {
+     text-align:justify;
+     font-size: 20px;
+     color: #cccccc;
+ }
+ 
+ .p2 {
+     text-align: justify;
+     font-size: 20px;
+     color: #cccccc;
+ }
+ 
+ #img1{
+     display: block;
+     margin: 0 auto;
+ }
+ 
+ #titulo2 {
+     text-align: center;
+     font-size: 30px;
+     color: #ce5c5c;
+ }
+ 
+ .ul{
+     display: inline-block;
+     vertical-align: top;
+     width: 20%;
+     margin-right: 15%;
+     font-size: 20px;
+ }
+ 
+ #img2{
+     width: 50%;
+ }
+ 
+ header{
+     text-align: center;
+     font-size: 50px;
+     color: #ce5c5c;
+ }
+ 
+ .principal{
+     background: #cccccc;
+ }
+ 
+ .beneficios{
+     background: #cccccc;
+ }
+ 
